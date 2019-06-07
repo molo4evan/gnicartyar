@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/32px-Write-icon.svg.png</file>
+        <file>icon/084_photo.png</file>
+        <file>icon/279a2c8bc7a76ce437cace378e4570fa.png</file>
+        <file>icon/brightness-medium.png</file>
+        <file>icon/clear.png</file>
+        <file>icon/eye.png</file>
+        <file>icon/help.png</file>
+        <file>icon/open_render.png</file>
+        <file>icon/open_scene.png</file>
+        <file>icon/save.png</file>
+        <file>icon/yelp.png</file>
+    </qresource>
+</RCC>
